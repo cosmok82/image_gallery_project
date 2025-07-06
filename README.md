@@ -1,5 +1,7 @@
 # Image Gallery Project
 
+![Screenshot APP](images/Screenshot_app.png "Screenshot APP")
+
 ## Project Overview
 
 This project is a demonstrative image gallery application built with C++ and Qt6. Its primary purpose is educational, showcasing a robust and modular approach to building Qt applications using CMake. A key highlight of this project is the demonstration of how to structure a large application into dynamically linked shared libraries (DLLs on Windows), with each core component compiled into its own library.
