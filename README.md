@@ -1,6 +1,8 @@
 # Image Gallery Project
 
-![Screenshot APP](images/Screenshot_app.png "Screenshot APP")
+<p align="center">
+  <img src="images/Screenshot_app.png" alt="Screenshot APP" title="Screenshot APP" width="50%">
+</p>
 
 ## Project Overview
 
